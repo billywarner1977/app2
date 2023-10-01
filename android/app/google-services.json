@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "147530419747",
+    "firebase_url": "https://invest-in-you-ad430-default-rtdb.firebaseio.com",
+    "project_id": "invest-in-you-ad430",
+    "storage_bucket": "invest-in-you-ad430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147530419747:android:aa182ab5e104fc89642b96",
+        "android_client_info": {
+          "package_name": "com.mycompany.investinyou"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdSBrB2gM7SOt75N63mnrbo0DG-mdGMuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
